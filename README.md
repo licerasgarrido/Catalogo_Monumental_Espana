@@ -47,11 +47,11 @@ Contenidos / Contents:
 
 Cómo citar / How to cite: 
 
-	Raquel Liceras-Garrido, Alba Comino & Patricia Murrieta-Flores (2020): Transcripción del Catálogo Monumental de España: Provincia de Ávila por Manuel Gómez Moreno (1900-1901). Dataset. Figshare. DOI: 10.6084/m9.figshare.12006318
+	Liceras-Garrido, Raquel; Comino, Alba; Murrieta-Flores, Patricia (2020): Transcripción del Catálogo Monumental de España: Provincia de Ávila por Manuel Gómez Moreno (1900-1901). figshare. Dataset. https://doi.org/10.6084/m9.figshare.12006318.v1
   
-	Raquel Liceras-Garrido, Alba Comino & Patricia Murrieta-Flores (2020): Transcripción del Catálogo monumental de la provincia de Soria por Juan Cabré (1916-1917). Dataset. Figshare. DOI: 10.6084/m9.figshare.12006273
+	Liceras-Garrido, Raquel; Comino, Alba; Murrieta-Flores, Patricia (2020): Transcripción del Catálogo Monumental de la Provincia de Soria por Juan Cabré (1916-1917). figshare. Dataset. https://doi.org/10.6084/m9.figshare.12006273.v1
   
-	Raquel Liceras-Garrido, Alba Comino & Patricia Murrieta-Flores (2020): Transcripción del Catálogo Monumental y Artístico de la Provincia de Burgos por Narciso Sentenach (1925). Dataset. Figshare. DOI: 10.6084/m9.figshare.12006327
+	Liceras-Garrido, Raquel; Comino, Alba; Murrieta-Flores, Patricia (2020): Transcripción del Catálogo Monumental y Artístico de la Provincia de Burgos por Narciso Sentenach (1925). figshare. Dataset. https://doi.org/10.6084/m9.figshare.12006327.v1
 
 
 Documentos Originales Digitalizados / Original Documents Digitised: https://csic-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=34CSIC_VU1&lang=es_ES
